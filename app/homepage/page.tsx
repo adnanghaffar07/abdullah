@@ -104,11 +104,11 @@ const Homepage = () => {
                         <div className="flex gap-10 self-stretch pr-6 my-auto rounded-lg border border-solid bg-zinc-50 border-black border-opacity-0 max-md:max-w-full">
                             <div className="flex shrink-0 h-56 bg-[#00A5B6] w-[7px]" />
                             <div className="flex flex-col grow shrink-0 self-center mt-4 basis-0 w-fit max-md:max-w-full">
-                                <div className=" text-2xl lg:text-3xl font-semibold leading-9 text-[#171717] md:max-w-[300px]">
-                                    Sr. QA Automation Engineer
+                                <div className=" text-2xl lg:text-3xl font-semibold leading-9 text-[#171717] md:max-w-[400px]">
+                                Sr. Mobile App Developer & Automation Lead
                                 </div>
                                 <div className="mt-3.5 text-lg lg:text-xl font-medium text-[#7F7F7F] max-md:max-w-full">
-                                    Reviewed test cases with the development team and product management, modifying them based on feedback.                                </div>
+                                Led mobile app development and automation testing, enhancing product quality and delivery through continuous integration.              </div>
                             </div>
                         </div>
 
@@ -118,7 +118,7 @@ const Homepage = () => {
                                 <div className=" text-2xl lg:text-3xl font-semibold leading-9 text-[#171717] md:max-w-[400px]">
                                     Software Development Engineer in Test</div>
                                 <div className="mt-3.5 text-lg lg:text-xl font-medium text-[#7F7F7F] max-md:max-w-full">
-                                    Created automated test frameworks, designed and implemented test cases, and wrote code to improve overall software testability.                                </div>
+                                Built automated test suites, integrated into CI/CD pipelines, improving app performance and stability.                   </div>
                             </div>
                         </div>
 
@@ -126,10 +126,10 @@ const Homepage = () => {
                             <div className="flex shrink-0 h-56 bg-[#00A5B6] w-[7px]" />
                             <div className="flex flex-col grow shrink-0 self-center mt-4 basis-0 w-fit max-md:max-w-full">
                                 <div className=" text-2xl lg:text-3xl font-semibold leading-none text-[#171717] md:max-w-[300px]">
-                                    QA Engineer
+                                Mobile App Developer
                                 </div>
                                 <div className="mt-3.5 text-lg lg:text-xl font-medium text-[#7F7F7F] max-md:max-w-full">
-                                    Analyzed business requirements, documented specifications, and wrote detailed Test Plans and Test Cases.                                </div>
+                                Designed and developed high-performance apps, focusing on backend integration and user experience.      </div>
                             </div>
                         </div>
 
@@ -137,10 +137,10 @@ const Homepage = () => {
                             <div className="flex shrink-0 h-56 bg-[#00A5B6] w-[7px]" />
                             <div className="flex flex-col grow shrink-0 self-center mt-4 basis-0 w-fit max-md:max-w-full">
                                 <div className=" text-2xl lg:text-3xl font-semibold leading-none text-[#171717] md:max-w-[300px]">
-                                    QA Tester
+                                Automation QA Engineer
                                 </div>
                                 <div className="mt-3.5 text-lg lg:text-xl font-medium text-[#7F7F7F] max-md:max-w-full">
-                                    Analyzed requirements and functional specifications for manual testing, ensuring comprehensive coverage.                                </div>
+                                Developed automated test scripts, ensuring app functionality and comprehensive testing coverage.              </div>
                             </div>
                         </div>
                     </div>
