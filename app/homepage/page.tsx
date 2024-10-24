@@ -36,6 +36,7 @@ const Homepage = () => {
                         />
                     </div>
 
+
                     <div className="flex absolute z-0 flex-col text-xl font-medium leading-8 bottom-[69px] md:left-[100px] min-w-[240px] max-w-[350px] max-md:relative max-md:bottom-auto max-md:left-auto max-md:w-full max-md:text-center">
                         <img
                             loading="lazy"
