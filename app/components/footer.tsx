@@ -57,8 +57,8 @@ export default function Footer() {
                     </div>
                     <div className="self-stretch mt-4 text-lg font-tight text-[#FCFCFD] max-md:max-w-full">
                     Over 8+ years of experience as a Lead Mobile App Developer & Automation Engineer, I specialize in building scalable mobile apps, automating testing, and integrating CI/CD pipelines for seamless software delivery.                    </div>
-                    {/* <div className="flex gap-3 items-start mt-4">
-                        <a
+                    <div className="flex gap-3 items-start mt-4">
+                        {/* <a
                             href="https://wa.me/+16133166042" // WhatsApp link format
                             target="_blank" // Opens in a new tab
                             rel="noopener noreferrer" // For security reasons
@@ -69,10 +69,10 @@ export default function Footer() {
                                 className="object-contain shrink-0 w-5 aspect-square"
                                 alt="WhatsApp"
                             />
-                        </a>
+                        </a> */}
 
                         <a
-                            href="https://github.com/ambreen4191" // GitHub URL
+                            href="https://github.com/Abdullah-Automation" // GitHub URL
                             target="_blank" // Open link in a new tab
                             rel="noopener noreferrer" // For security reasons
                         >
@@ -85,7 +85,19 @@ export default function Footer() {
                         </a>
 
                         <a
-                            href="https://mail.google.com/mail/?view=cm&fs=1&to=ambreeny007@gmail.com"
+                            href="https://www.upwork.com/freelancers/~018784dcfdfc7c9901?mp_source=share" // GitHub URL
+                            target="_blank" // Open link in a new tab
+                            rel="noopener noreferrer" // For security reasons
+                        >
+                            <img
+                                loading="lazy"
+                                src="/upwork.png"
+                                className="object-contain -mt-0.5 h-6"
+                                alt="Upwork"
+                            />
+                        </a>
+                        <a
+                            href="https://mail.google.com/mail/?view=cm&fs=1&to=info@abdulah.net"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
@@ -98,7 +110,7 @@ export default function Footer() {
                         </a>
 
 
-                        <a
+                        {/* <a
                             href="https://www.linkedin.com/in/ambreen-younas-3022511b4/" // LinkedIn URL
                             target="_blank" // Open LinkedIn in a new tab
                             rel="noopener noreferrer" // For security reasons
@@ -109,9 +121,9 @@ export default function Footer() {
                                 className="object-contain shrink-0 w-5 aspect-square"
                                 alt="LinkedIn"
                             />
-                        </a>
+                        </a> */}
 
-                    </div> */}
+                    </div>
                 </div>
                 <div className="flex flex-col">
                     <div className="text-xl font-semibold tracking-tight text-[#00A5B6]">
