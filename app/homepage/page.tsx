@@ -44,8 +44,7 @@ const Homepage = () => {
                             className="object-contain w-9 aspect-square max-md:mx-auto"
                         />
                         <div className="mt-3">
-                            With 8+ years of experience in the IT industry, I excel in mobile app development and automation engineering. I have a proven track record of building high-performance mobile applications, designing automation frameworks, and optimizing software for efficiency. Passionate about delivering top-quality solutions.
-                        </div>
+                        With 8+ years in the IT industry, I specialize in mobile app development and automation engineering. I build high-performance apps, design efficient automation frameworks, and optimize software for smooth, scalable performance. Passionate about delivering top-quality solutions, I streamline processes and drive efficiency.                        </div>
                     </div>
 
                     <div className="flex absolute z-0 flex-col items-end leading-none text-center bottom-[275px] right-[100px] text-neutral-900 max-md:relative max-md:bottom-auto max-md:right-auto max-md:items-center max-md:w-full">
@@ -70,7 +69,7 @@ const Homepage = () => {
                                 className="object-cover absolute xl:size-full"
                             />
                             <div className="flex overflow-hidden relative gap-2.5 justify-center items-center border border-white px-2.5 py-2 mb-0 max-w-full bg-white bg-opacity-10 min-h-[67px] rounded-[50px] max-w-[351px] max-md:w-full">
-                                <a href="/Abdullah - Lead Mobile App developer & Automation Enginner.pdf" download>
+                                <a href="/Abdullah - Lead Mobile App developer & Automation Enginneer.pdf" download>
                                     <div className="overflow-hidden self-stretch px-2 py-3.5 text-center my-auto w-44 md:w-52 text-lg font-medium tracking-tight bg-black min-h-[54px] rounded-[60px] cursor-pointer">
                                         Download CV
                                     </div>
@@ -126,7 +125,7 @@ const Homepage = () => {
                         <div className="flex gap-10 self-stretch pr-6 my-auto rounded-lg border border-solid bg-zinc-50 border-black border-opacity-0  max-md:max-w-full">
                             <div className="flex shrink-0 h-56 bg-[#00A5B6] w-[7px]" />
                             <div className="flex flex-col grow shrink-0 self-center mt-4 basis-0 w-fit max-md:max-w-full">
-                                <div className=" text-2xl lg:text-3xl font-semibold leading-none text-[#171717] md:max-w-[300px]">
+                                <div className=" text-2xl lg:text-3xl font-semibold leading-none text-[#171717] md:max-w-[400px]">
                                 Mobile App Developer
                                 </div>
                                 <div className="mt-3.5 text-lg lg:text-xl font-medium text-[#7F7F7F] max-md:max-w-full">
@@ -137,7 +136,7 @@ const Homepage = () => {
                         <div className="flex gap-10 self-stretch pr-6 my-auto rounded-lg border border-solid bg-zinc-50 border-black border-opacity-0 max-md:max-w-full">
                             <div className="flex shrink-0 h-56 bg-[#00A5B6] w-[7px]" />
                             <div className="flex flex-col grow shrink-0 self-center mt-4 basis-0 w-fit max-md:max-w-full">
-                                <div className=" text-2xl lg:text-3xl font-semibold leading-none text-[#171717] md:max-w-[300px]">
+                                <div className=" text-2xl lg:text-3xl font-semibold leading-none text-[#171717] md:max-w-[400px]">
                                 Automation QA Engineer
                                 </div>
                                 <div className="mt-3.5 text-lg lg:text-xl font-medium text-[#7F7F7F] max-md:max-w-full">

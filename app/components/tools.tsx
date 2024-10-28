@@ -17,21 +17,17 @@ const ToolsAndTechnologies = () => {
             ]
         },
         {
-            title: "Automation Testing Frameworks",
+            title: "Automation Tools",
             tools: [
-                { name: "Cypress", image: "/cypress.svg" },
-                { name: "Selenium", image: "/selenium.png" },
-                { name: "Appium", image: "/appium.svg" },
-                { name: "TestNG", image: "/unit1.png" },
-                { name: "JUnit", image: "/unit2.png" },
-                { name: "Espresso", image: "/espresso.svg" },
-            ]
-        },
-        {
-            title: "Performance Testing",
-            tools: [
-                { name: "Gatling", image: "/gatling.png" },
-                { name: "JMeter", image: "/jmeter.svg" },
+                { name: "n8n", image: "/n8n.png" },
+                { name: "Corezoid", image: "/corezoid.jpg" },
+                { name: "IFTTT", image: "/ifttt.png" },
+                { name: "Zapier", image: "/zapier.png" },
+                { name: "Make.com", image: "/makee.png" },
+                { name: "Pabbly", image: "/pabbly.png" },
+                { name: "ActivePieces", image: "/activepieces.png" },
+                { name: "Bardeen", image: "/bardeen.png" },
+                { name: "Keragon", image: "/keragon.png" }
             ]
         },
         {
@@ -44,7 +40,29 @@ const ToolsAndTechnologies = () => {
                 { name: "Bitrise", image: "/bitrise.svg" },        
                         ]
         },
-       
+        {
+            title: "Cloud & Databases",
+            tools: [
+                { name: "Firebase", image: "/firebase.png" },
+                { name: "AWS", image: "/aws.png" },
+                { name: "Google Cloud", image: "/cloud.png" },
+                { name: "MySQL", image: "/mysql.png" },
+                { name: "PostgreSQL", image: "/postgerql.png" }
+            ]
+        },        
+        {
+            title: "Programming Languages",
+            tools: [
+                { name: "Dart", image: "/dart.png" },
+                { name: "Swift", image: "/swift.svg" },
+                { name: "React Native", image: "/react.svg" },
+                { name: "Flutter", image: "/flutter.svg" },
+                { name: "Kotlin", image: "/kotlin.svg" },
+                { name: "Java", image: "/java.png" },
+                { name: "JavaScript", image: "/javascript.png" },
+                { name: "Python", image: "/python.png" }
+            ]
+        },        
         {
             title: "Project Management Tools",
             tools: [
@@ -62,7 +80,7 @@ const ToolsAndTechnologies = () => {
 
     return (
         <div className="flex overflow-hidden flex-col items-center p-16 w-full max-md:px-5 max-md:max-w-full" id="tools-section">
-            <div className="flex flex-col items-center w-full max-w-[1312px] max-md:max-w-full">
+            <div className="flex flex-col items-center w-full max-w-[1402px] max-md:max-w-full">
                 <div className="text-6xl font-semibold tracking-tighter leading-none text-[#00A5B6] max-md:max-w-full max-md:text-4xl">
                     Tools<span className="text-[#171717]"> & </span>Technologies
                 </div>
