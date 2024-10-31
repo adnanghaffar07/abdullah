@@ -56,7 +56,7 @@ export default function Footer() {
                         </div>
                     </div>
                     <div className="self-stretch mt-4 text-lg font-tight text-[#FCFCFD] max-md:max-w-full">
-                    Over 8+ years of experience as a Lead Mobile App Developer & Automation Engineer, I specialize in building scalable mobile apps, automating testing, and integrating CI/CD pipelines for seamless software delivery.                    </div>
+                    Over 8+ years of experience as a Lead Mobile App Developer & Automation Engineer, I specialize in building scalable mobile apps, automating testing, and integrating CI/CD pipelines for seamless software delivery.       </div>
                     <div className="flex gap-3 items-start mt-4">
                         {/* <a
                             href="https://wa.me/+16133166042" // WhatsApp link format
