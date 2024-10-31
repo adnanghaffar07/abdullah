@@ -137,10 +137,10 @@ const Homepage = () => {
                             <div className="flex shrink-0 h-56 bg-[#00A5B6] w-[7px]" />
                             <div className="flex flex-col grow shrink-0 self-center mt-4 basis-0 w-fit max-md:max-w-full">
                                 <div className=" text-2xl lg:text-3xl font-semibold leading-none text-[#171717] md:max-w-[400px]">
-                                Automation QA Engineer
+                                Lead Automation Engineer
                                 </div>
                                 <div className="mt-3.5 text-lg lg:text-xl font-medium text-[#7F7F7F] max-md:max-w-full">
-                                Developed automated test scripts, ensuring app functionality and comprehensive testing coverage.              </div>
+                                Developed automation solutions, integration workflows, and streamlined processes to ensure seamless functionality, optimized operations, and comprehensive system coverage.        </div>
                             </div>
                         </div>
                     </div>
@@ -165,8 +165,8 @@ const Homepage = () => {
                             <div className="w-full text-6xl font-semibold tracking-tighter leading-none text-[#171717] max-w-full md:text-4xl text-center md:text-left">
                                 Why <span className="text-[#00A5B6]">Hire me</span>?
                             </div>
-                            <div className="mt-12 text-xl tracking-tight text-[#606060] max-w-[600px] leading-7 md:mt-10 text-center md:text-left">
-                                With 8+ years of expertise in mobile app development and automation, I specialize in building high-performance, scalable applications and designing end-to-end automated testing frameworks. I ensure seamless CI/CD integration, rigorous testing, and prompt resolution of critical bugs to maintain top quality standards throughout development. Committed to optimizing workflows and enhancing QA processes, I collaborate closely with teams to deliver projects on time and beyond client expectations.                            </div>
+                            <div style={{letterSpacing: "0.2px", wordSpacing: "1px"}} className="mt-12 text-xl tracking-tight text-[#606060] max-w-[600px] leading-7 md:mt-10 text-center md:text-left">
+                            With 8+ years of expertise in mobile app development and automation, I specialize in building high-performance, scalable applications and designing robust workflow automation systems. By leveraging tools like n8n, Corezoid, IFTTT, Zapier, Make.com, Pabbly, ActivePieces, Bardeen, and Keragon, I streamline processes, enhance integrations, and optimize operational workflows. I ensure seamless CI/CD integration, prompt bug resolution, and effective collaboration to maintain top quality standards and deliver projects on time, exceeding client expectations.                                                          </div>
                             <div className="flex flex-wrap gap-2.5 items-start mt-12 w-full md:mt-10">
                                 <div className="flex flex-col flex-1 shrink basis-0 min-w-[240px] items-center md:items-start">
                                     <div className="flex gap-1 items-center text-4xl font-bold tracking-tight whitespace-nowrap text-slate-800">
@@ -179,9 +179,6 @@ const Homepage = () => {
                                     </div>
                                     <div className="mt-2.5 text-xl tracking-tight text-gray-500">
                                         Successful Projects Delivered
-
-
-
                                     </div>
                                 </div>
                                 <div className="flex flex-col flex-1 shrink basis-0 min-w-[240px] items-center md:items-start">
