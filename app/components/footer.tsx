@@ -199,7 +199,7 @@ export default function Footer() {
                 className="object-contain mt-6 w-full aspect-[200] stroke-[2px] stroke-slate-600 max-md:max-w-full"
             />
             <div className="mt-6 w-full text-base text-center font-light text-sm text-white max-md:max-w-full">
-                Copyright© 2024 Abdullah. All Rights Reserved.
+                Copyright© 2025 Abdullah. All Rights Reserved.
             </div>
         </div>)
 }
